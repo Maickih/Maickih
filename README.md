@@ -1,7 +1,7 @@
 ## Olá! Me chamo Maicon, seja muito bem vindo ao meu perfil ✌️ 
 
 - 📚 Estudante de Gestão em tecnologia da Informação e linguagens como Python, CSS, HTML;
-- 🔒Entusista de Cibersegurança;
+- 🔒Entusiasta de Cibersegurança;
 - 🎮Amante dos videos games; 
 - 📧E-mail para contato: maiconhenrike65@gmail.com. <br/>
 
