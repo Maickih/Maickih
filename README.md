@@ -2,7 +2,7 @@
 
 - 📚 Estudante de Gestão em tecnologia da Informação e linguagens como Python, CSS, HTML;
 - 🔒Entusista de Cibersegurança;
-- 🎮Amante dos videos games. 
+- 🎮Amante dos videos games;
 - 📧E-mail para contato: maiconhenrike65@gmail.com. <br/>
 
 
