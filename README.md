@@ -11,7 +11,7 @@
 
 
 ![Maickih GitHub stats](https://github-readme-stats.vercel.app/api?username=Maickih&show_icons=true&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maickih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Técnologias mais usadas
 
@@ -19,6 +19,8 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div><br/>
+
+
 
 ### May the force be with you 🚀
 
