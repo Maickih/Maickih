@@ -22,4 +22,4 @@
 
 ### May the force be with you 🚀
 
-<img align="right" alt="stormtrooper" src="https://cdn.discordapp.com/attachments/459142265810452532/1066813291281793174/0a95e7706fd9b0c96a54ba61cc8efc4b813b41f5.png">
+
