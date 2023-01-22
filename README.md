@@ -2,7 +2,7 @@
 
 - 📚 Estudante de Gestão em tecnologia da Informação e linguagens como Python, CSS, HTML;
 - 🔒Entusista de Cibersegurança;
-- 🎮Amante dos videos games;
+- 🎮Amante dos videos games; 
 - 📧E-mail para contato: maiconhenrike65@gmail.com. <br/>
 
 
@@ -21,3 +21,5 @@
 </div><br/>
 
 ### May the force be with you 🚀
+
+<img align="right" alt="stormtrooper" src="https://cdn.discordapp.com/attachments/459142265810452532/1066812006386114560/0a95e7706fd9b0c96a54ba61cc8efc4b813b41f5.png">
