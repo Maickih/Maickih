@@ -1,4 +1,4 @@
-## Olá, me chamo Maicon, seja muito bem vindo ao meu perfil ✌️ 
+## Olá! Me chamo Maicon, seja muito bem vindo ao meu perfil ✌️ 
 
 - 📚 Estudante de Gestão em tecnologia da Informação e linguagens como Python, CSS, HTML;
 - 🔒Entusista de Cibersegurança;
