@@ -1,6 +1,10 @@
 ## Olá, me chamo Maicon, seja muito bem vindo ao meu perfil ✌️ 
 
--Estudante de Gestão em tecnologia da Informação e linguagens como Python, CSS, HTML 
+- 📚 Estudante de Gestão em tecnologia da Informação e linguagens como Python, CSS, HTML;
+- 🔒Entusista de Cibersegurança;
+- 🎮Amante dos videos games. 
+- 📧E-mail para contato: maiconhenrike65@gmail.com. <br/>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-medeiros-86a102199/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maaaickon/)
